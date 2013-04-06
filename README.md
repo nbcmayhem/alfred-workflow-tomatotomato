@@ -13,7 +13,7 @@ e.g. `movie Eyes Wide Shut`
 2. `alt`-key functions as a modifier and will copy the corresponding URL to clipboard (hold `alt` + select).
 
 ## Screenshot
-![Image Alt](https://github.com/nbcmayhem/alfred-workflow-tomatotomato/master/screenshot.png)
+![Image Alt](https://raw.github.com/nbcmayhem/alfred-workflow-tomatotomato/master/screenshot.png)
 
 ## License
 MIT license. See LICENSE file for additional information.
